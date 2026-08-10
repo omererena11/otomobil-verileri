@@ -134,6 +134,45 @@
           "displacement": "",
           "description": "",
           "equipment": ""
+        },
+        {
+          "id": "su-2026",
+          "name": "su",
+          "year": 2026,
+          "images": [
+            "cars/toyota/su-2026_1.webp",
+            "cars/toyota/su-2026_2.webp"
+          ],
+          "order": 3,
+          "show_on_homepage": true,
+          "homepage_order": 1,
+          "caption_style": {
+            "font_family": "Arial",
+            "font_size": 14,
+            "font_weight": "normal",
+            "font_style": "normal",
+            "text_decoration": "none",
+            "color": "#000000",
+            "text_align": "sol",
+            "line_height": 1.4,
+            "letter_spacing": 0
+          },
+          "price": "",
+          "fuel": "",
+          "engine": "",
+          "power": "",
+          "torque": "",
+          "transmission": "",
+          "drivetrain": "",
+          "trunk_volume": "",
+          "acceleration": "",
+          "max_speed": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "displacement": "",
+          "description": "",
+          "equipment": ""
         }
       ]
     },
