@@ -102,6 +102,13 @@
           "equipment": ""
         }
       ]
+    },
+    {
+      "id": "reno",
+      "name": "reno",
+      "logo": "brands/reno.JPG",
+      "order": 3,
+      "models": []
     }
   ]
 }
