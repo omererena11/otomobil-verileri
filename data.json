@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "updated_at": "2026-08-10",
+  "brands": [
+    {
+      "id": "toyota",
+      "name": "toyota",
+      "logo": "brands/toyota.png",
+      "order": 1,
+      "models": [
+        {
+          "id": "yaris-2026",
+          "name": "YARİŞ",
+          "year": 2026,
+          "images": [
+            "cars/toyota/yaris-2026_1.webp",
+            "cars/toyota/yaris-2026_2.webp",
+            "cars/toyota/yaris-2026_1_1.webp"
+          ],
+          "order": 1,
+          "price": "2500000",
+          "fuel": "",
+          "engine": "",
+          "power": "",
+          "torque": "",
+          "transmission": "",
+          "drivetrain": "",
+          "trunk_volume": "",
+          "acceleration": "",
+          "max_speed": "",
+          "length": "",
+          "width": "",
+          "height": "",
+          "displacement": "",
+          "description": "",
+          "equipment": ""
+        }
+      ]
+    }
+  ]
+}
