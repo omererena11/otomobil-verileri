@@ -177,8 +177,8 @@
       "logo": "brands/bmw.png",
       "order": 2,
       "show_on_homepage": true,
-      "show_brand_description": false,
-      "brand_description": "",
+      "show_brand_description": true,
+      "brand_description": "MARKA AÇIKLAMASIASDASDASDASDADA ASDASD A AD AS DAS DAS DAS DS D",
       "models": [
         {
           "id": "z1-2026",
@@ -288,8 +288,8 @@
       "logo": "c:\\Users\\omer.eren\\Desktop\\Ömer Şahsi\\APP\\CARS\\CARS\\web\\data\\brands\\tofas.webp",
       "order": 3,
       "show_on_homepage": true,
-      "show_brand_description": false,
-      "brand_description": "",
+      "show_brand_description": true,
+      "brand_description": "HASAR SATINALMA Osman yılmaz \n Osman yılmaz garanti",
       "models": [
         {
           "id": "asasd-2026",
