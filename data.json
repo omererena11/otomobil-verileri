@@ -57,7 +57,7 @@
         "font_style": "normal",
         "color": "#1A1C1E",
         "text_align": "sol",
-        "effect": "marquee"
+        "effect": "shimmer"
       },
       "models": [
         {
@@ -194,8 +194,8 @@
         "font_weight": "normal",
         "font_style": "normal",
         "color": "#1A1C1E",
-        "text_align": "left",
-        "effect": "none"
+        "text_align": "sol",
+        "effect": "marquee"
       },
       "models": [
         {
