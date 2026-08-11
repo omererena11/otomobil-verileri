@@ -50,6 +50,15 @@
       "show_on_homepage": true,
       "show_brand_description": true,
       "brand_description": "MARKA AÇIKLAMASI",
+      "brand_description_style": {
+        "font_family": "Arial",
+        "font_size": 14,
+        "font_weight": "normal",
+        "font_style": "normal",
+        "color": "#1A1C1E",
+        "text_align": "sol",
+        "effect": "marquee"
+      },
       "models": [
         {
           "id": "yaris-2026",
@@ -179,6 +188,15 @@
       "show_on_homepage": true,
       "show_brand_description": true,
       "brand_description": "MARKA AÇIKLAMASIASDASDASDASDADA ASDASD A AD AS DAS DAS DAS DS D",
+      "brand_description_style": {
+        "font_family": "Arial",
+        "font_size": 14,
+        "font_weight": "normal",
+        "font_style": "normal",
+        "color": "#1A1C1E",
+        "text_align": "left",
+        "effect": "none"
+      },
       "models": [
         {
           "id": "z1-2026",
@@ -290,6 +308,15 @@
       "show_on_homepage": true,
       "show_brand_description": true,
       "brand_description": "HASAR SATINALMA Osman yılmaz \n Osman yılmaz garanti",
+      "brand_description_style": {
+        "font_family": "Arial",
+        "font_size": 14,
+        "font_weight": "normal",
+        "font_style": "normal",
+        "color": "#1A1C1E",
+        "text_align": "left",
+        "effect": "none"
+      },
       "models": [
         {
           "id": "asasd-2026",
@@ -361,6 +388,15 @@
       "show_on_homepage": true,
       "show_brand_description": false,
       "brand_description": "",
+      "brand_description_style": {
+        "font_family": "Arial",
+        "font_size": 14,
+        "font_weight": "normal",
+        "font_style": "normal",
+        "color": "#1A1C1E",
+        "text_align": "left",
+        "effect": "none"
+      },
       "models": []
     },
     {
@@ -371,6 +407,15 @@
       "show_on_homepage": true,
       "show_brand_description": false,
       "brand_description": "",
+      "brand_description_style": {
+        "font_family": "Arial",
+        "font_size": 14,
+        "font_weight": "normal",
+        "font_style": "normal",
+        "color": "#1A1C1E",
+        "text_align": "left",
+        "effect": "none"
+      },
       "models": []
     },
     {
@@ -381,6 +426,15 @@
       "show_on_homepage": true,
       "show_brand_description": false,
       "brand_description": "",
+      "brand_description_style": {
+        "font_family": "Arial",
+        "font_size": 14,
+        "font_weight": "normal",
+        "font_style": "normal",
+        "color": "#1A1C1E",
+        "text_align": "left",
+        "effect": "none"
+      },
       "models": []
     },
     {
@@ -391,6 +445,15 @@
       "show_on_homepage": true,
       "show_brand_description": false,
       "brand_description": "",
+      "brand_description_style": {
+        "font_family": "Arial",
+        "font_size": 14,
+        "font_weight": "normal",
+        "font_style": "normal",
+        "color": "#1A1C1E",
+        "text_align": "left",
+        "effect": "none"
+      },
       "models": []
     },
     {
@@ -401,6 +464,15 @@
       "show_on_homepage": true,
       "show_brand_description": false,
       "brand_description": "",
+      "brand_description_style": {
+        "font_family": "Arial",
+        "font_size": 14,
+        "font_weight": "normal",
+        "font_style": "normal",
+        "color": "#1A1C1E",
+        "text_align": "left",
+        "effect": "none"
+      },
       "models": []
     },
     {
@@ -411,6 +483,15 @@
       "show_on_homepage": true,
       "show_brand_description": false,
       "brand_description": "",
+      "brand_description_style": {
+        "font_family": "Arial",
+        "font_size": 14,
+        "font_weight": "normal",
+        "font_style": "normal",
+        "color": "#1A1C1E",
+        "text_align": "left",
+        "effect": "none"
+      },
       "models": []
     }
   ]
