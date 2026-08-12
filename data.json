@@ -49,7 +49,7 @@
     },
     "brand_header_settings": {
       "logo_size": 40,
-      "title_font_size": 25,
+      "title_font_size": 20,
       "title_font_family": "Arial Black",
       "title_font_weight": "bold",
       "title_color": "#000000",
