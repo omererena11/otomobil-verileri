@@ -5,7 +5,7 @@
     "background_color": "#F5F5F5",
     "title": {
       "text": "TÜM OTOMOBİLLER",
-      "font_family": "Snap ITC",
+      "font_family": "Blackadder ITC",
       "font_size": 24,
       "font_weight": "bold",
       "color": "#ff0004",
@@ -50,9 +50,9 @@
     "brand_header_settings": {
       "logo_size": 40,
       "title_font_size": 30,
-      "title_font_family": "Snap ITC",
+      "title_font_family": "Blackadder ITC",
       "title_font_weight": "bold",
-      "title_color": "#000000",
+      "title_color": "#aa0000",
       "logo_title_gap": 8,
       "header_height": 40,
       "alignment": "sol"
