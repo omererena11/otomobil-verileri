@@ -43,155 +43,6 @@
   },
   "brands": [
     {
-      "id": "aito",
-      "name": "AITO",
-      "logo": "brands/aito.webp",
-      "order": 1,
-      "show_on_homepage": true,
-      "show_brand_description": false,
-      "brand_description": "",
-      "brand_description_style": {
-        "font_family": "Arial",
-        "font_size": 14,
-        "font_weight": "normal",
-        "font_style": "normal",
-        "color": "#1A1C1E",
-        "text_align": "left",
-        "effect": "none"
-      },
-      "models": [
-        {
-          "id": "aito-m5",
-          "name": "M5",
-          "year": 2026,
-          "thumbnail": "",
-          "large_images": [],
-          "order": 1,
-          "show_on_homepage": true,
-          "homepage_order": 1,
-          "show_year": true,
-          "show_description": false,
-          "card_description": "",
-          "caption_style": {},
-          "price": "",
-          "fuel": "",
-          "engine": "",
-          "power": "",
-          "torque": "",
-          "transmission": "",
-          "drivetrain": "",
-          "trunk_volume": "",
-          "acceleration": "",
-          "max_speed": "",
-          "length": "",
-          "width": "",
-          "height": "",
-          "displacement": "",
-          "description": "",
-          "equipment": "",
-          "vehicle_types": [
-            "otomobil"
-          ],
-          "fuel_types": [
-            "benzin"
-          ],
-          "transmissions": [
-            "manuel",
-            "otomatik"
-          ],
-          "body_types": [
-            "hatchback_5"
-          ]
-        },
-        {
-          "id": "aito-m7",
-          "name": "M7",
-          "year": 2026,
-          "thumbnail": "",
-          "large_images": [],
-          "order": 2,
-          "show_on_homepage": true,
-          "homepage_order": 2,
-          "show_year": true,
-          "show_description": false,
-          "card_description": "",
-          "caption_style": {},
-          "price": "",
-          "fuel": "",
-          "engine": "",
-          "power": "",
-          "torque": "",
-          "transmission": "",
-          "drivetrain": "",
-          "trunk_volume": "",
-          "acceleration": "",
-          "max_speed": "",
-          "length": "",
-          "width": "",
-          "height": "",
-          "displacement": "",
-          "description": "",
-          "equipment": "",
-          "vehicle_types": [
-            "otomobil"
-          ],
-          "fuel_types": [
-            "benzin"
-          ],
-          "transmissions": [
-            "manuel",
-            "otomatik"
-          ],
-          "body_types": [
-            "hatchback_5"
-          ]
-        },
-        {
-          "id": "aito-m9",
-          "name": "M9",
-          "year": 2026,
-          "thumbnail": "",
-          "large_images": [],
-          "order": 3,
-          "show_on_homepage": true,
-          "homepage_order": 3,
-          "show_year": true,
-          "show_description": false,
-          "card_description": "",
-          "caption_style": {},
-          "price": "",
-          "fuel": "",
-          "engine": "",
-          "power": "",
-          "torque": "",
-          "transmission": "",
-          "drivetrain": "",
-          "trunk_volume": "",
-          "acceleration": "",
-          "max_speed": "",
-          "length": "",
-          "width": "",
-          "height": "",
-          "displacement": "",
-          "description": "",
-          "equipment": "",
-          "vehicle_types": [
-            "otomobil"
-          ],
-          "fuel_types": [
-            "benzin"
-          ],
-          "transmissions": [
-            "manuel",
-            "otomatik"
-          ],
-          "body_types": [
-            "hatchback_5"
-          ]
-        }
-      ]
-    },
-    {
       "id": "alfa-romeo",
       "name": "Alfa Romeo",
       "logo": "brands/alfa-romeo.webp",
@@ -213,8 +64,11 @@
           "id": "alfa-romeo-junior",
           "name": "Junior",
           "year": 2026,
-          "thumbnail": "",
-          "large_images": [],
+          "thumbnail": "cars/alfa-romeo/alfa-romeo-junior_thumb.webp",
+          "large_images": [
+            "cars/alfa-romeo/alfa-romeo-junior_1.webp",
+            "cars/alfa-romeo/alfa-romeo-junior_2.webp"
+          ],
           "order": 1,
           "show_on_homepage": true,
           "homepage_order": 1,
