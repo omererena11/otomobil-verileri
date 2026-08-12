@@ -66,8 +66,8 @@
           "year": 2026,
           "thumbnail": "cars/alfa-romeo/alfa-romeo-junior_thumb.webp",
           "large_images": [
-            "cars/alfa-romeo/alfa-romeo-junior_1.webp",
             "cars/alfa-romeo/alfa-romeo-junior_2.webp",
+            "cars/alfa-romeo/alfa-romeo-junior_1.webp",
             "cars/alfa-romeo/alfa-romeo-junior_1.webp"
           ],
           "order": 1,
