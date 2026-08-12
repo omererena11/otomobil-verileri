@@ -61,14 +61,18 @@
       },
       "models": [
         {
-          "id": "alfa-romeo-giulia",
-          "name": "Giulia",
+          "id": "alfa-romeo-junior",
+          "name": "Junior",
           "year": 2026,
-          "thumbnail": "",
-          "large_images": [],
+          "thumbnail": "cars/alfa-romeo/alfa-romeo-junior_thumb.webp",
+          "large_images": [
+            "cars/alfa-romeo/alfa-romeo-junior_2.webp",
+            "cars/alfa-romeo/alfa-romeo-junior_1.webp",
+            "cars/alfa-romeo/alfa-romeo-junior_1.webp"
+          ],
           "order": 1,
           "show_on_homepage": true,
-          "homepage_order": 2,
+          "homepage_order": 1,
           "show_year": true,
           "show_description": false,
           "card_description": "",
@@ -104,18 +108,14 @@
           ]
         },
         {
-          "id": "alfa-romeo-junior",
-          "name": "Junior",
+          "id": "alfa-romeo-giulia",
+          "name": "Giulia",
           "year": 2026,
-          "thumbnail": "cars/alfa-romeo/alfa-romeo-junior_thumb.webp",
-          "large_images": [
-            "cars/alfa-romeo/alfa-romeo-junior_2.webp",
-            "cars/alfa-romeo/alfa-romeo-junior_1.webp",
-            "cars/alfa-romeo/alfa-romeo-junior_1.webp"
-          ],
+          "thumbnail": "",
+          "large_images": [],
           "order": 2,
           "show_on_homepage": true,
-          "homepage_order": 1,
+          "homepage_order": 2,
           "show_year": true,
           "show_description": false,
           "card_description": "",
