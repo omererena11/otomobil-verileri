@@ -48,8 +48,8 @@
       "font_color": "#000000"
     },
     "brand_header_settings": {
-      "logo_size": 50,
-      "title_font_size": 30,
+      "logo_size": 40,
+      "title_font_size": 25,
       "title_font_family": "Arial Black",
       "title_font_weight": "bold",
       "title_color": "#000000",
@@ -65,16 +65,16 @@
       "logo": "c:\\Users\\EREN\\Desktop\\WORKING\\APP\\CARS\\CARS\\web\\data\\brands\\alfa-romeo.webp",
       "order": 2,
       "show_on_homepage": true,
-      "show_brand_description": false,
-      "brand_description": "",
+      "show_brand_description": true,
+      "brand_description": "Get-Service LanmanServer",
       "brand_description_style": {
         "font_family": "Arial",
-        "font_size": 14,
+        "font_size": 25,
         "font_weight": "normal",
         "font_style": "normal",
-        "color": "#1A1C1E",
+        "color": "#1a1c1e",
         "text_align": "sol",
-        "effect": "none"
+        "effect": "marquee"
       },
       "brand_name_style": {
         "font_family": "Arial",
