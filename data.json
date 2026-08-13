@@ -223,7 +223,7 @@
     {
       "id": "alpine",
       "name": "Alpine",
-      "logo": "c:\\Users\\omer.eren\\Desktop\\Ömer Şahsi\\APP\\CARS\\CARS\\web\\data\\brands\\alpine.webp",
+      "logo": "brands/alpine.webp",
       "order": 3,
       "show_on_homepage": true,
       "show_brand_description": false,
@@ -389,7 +389,7 @@
         "font_weight": "normal",
         "font_style": "normal",
         "color": "#1A1C1E",
-        "text_align": "left",
+        "text_align": "sol",
         "effect": "none"
       },
       "brand_name_style": {
@@ -398,7 +398,7 @@
         "font_weight": "bold",
         "font_style": "normal",
         "color": "#1A1C1E",
-        "text_align": "left"
+        "text_align": "sol"
       },
       "models": [
         {
