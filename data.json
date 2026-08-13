@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-08-12",
+  "updated_at": "2026-08-13",
   "home_page_settings": {
     "background_color": "#F5F5F5",
     "title": {
       "text": "TÜM OTOMOBİLLER",
-      "font_family": "Arial Black",
+      "font_family": "Blackadder ITC",
       "font_size": 24,
       "font_weight": "bold",
       "color": "#ff0004",
@@ -50,9 +50,9 @@
     "brand_header_settings": {
       "logo_size": 40,
       "title_font_size": 20,
-      "title_font_family": "Arial Black",
+      "title_font_family": "Blackadder ITC",
       "title_font_weight": "bold",
-      "title_color": "#000000",
+      "title_color": "#626262",
       "logo_title_gap": 8,
       "header_height": 40,
       "alignment": "sol"
@@ -62,19 +62,19 @@
     {
       "id": "alfa-romeo",
       "name": "Alfa ROMEO",
-      "logo": "brands/alfa-romeo.webp",
+      "logo": "c:\\Users\\omer.eren\\Desktop\\Ömer Şahsi\\APP\\CARS\\CARS\\web\\data\\brands\\alfa-romeo.webp",
       "order": 2,
       "show_on_homepage": true,
-      "show_brand_description": true,
-      "brand_description": "Get-Service LanmanServer",
+      "show_brand_description": false,
+      "brand_description": "",
       "brand_description_style": {
         "font_family": "Arial",
-        "font_size": 25,
+        "font_size": 14,
         "font_weight": "normal",
         "font_style": "normal",
-        "color": "#1a1c1e",
+        "color": "#1A1C1E",
         "text_align": "sol",
-        "effect": "marquee"
+        "effect": "none"
       },
       "brand_name_style": {
         "font_family": "Arial",
