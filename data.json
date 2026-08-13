@@ -62,11 +62,11 @@
     {
       "id": "alfa-romeo",
       "name": "Alfa ROMEO",
-      "logo": "c:\\Users\\omer.eren\\Desktop\\Ömer Şahsi\\APP\\CARS\\CARS\\web\\data\\brands\\alfa-romeo.webp",
+      "logo": "brands/alfa-romeo.webp",
       "order": 2,
       "show_on_homepage": true,
-      "show_brand_description": false,
-      "brand_description": "",
+      "show_brand_description": true,
+      "brand_description": "2026.E.206058  KENAN MEMİŞ 680 TL EK BAŞVURU ÜCRETİ",
       "brand_description_style": {
         "font_family": "Arial",
         "font_size": 14,
@@ -74,7 +74,7 @@
         "font_style": "normal",
         "color": "#1A1C1E",
         "text_align": "sol",
-        "effect": "none"
+        "effect": "marquee"
       },
       "brand_name_style": {
         "font_family": "Arial",
